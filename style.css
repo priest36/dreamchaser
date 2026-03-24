@@ -1,18 +1,29 @@
 body {
-    background-color: #fff; 
+    background-color: #1a1a1a;
     font-family: Arial;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+header {
+    font-size: 28px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
 }
 
 p {
     font-size: 20px;
     color: rgb(184, 168, 168);
     padding: 20px;
+    text-shadow: 1px 1px 2px black;
 }
 
 img {
     width: 300px;
     margin: 20px;
-    display: block; 
+    display: block;
 }
 
 .logo {
