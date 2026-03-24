@@ -1,28 +1,19 @@
 body {
-    background-color: #1a1a1a;
-    font-family: Arial;
+    background-color: black;
     color: white;
     text-shadow: 1px 1px 2px black;
-}
-
-header {
-    font-size: 28px;
-    font-weight: bold;
-    padding: 20px;
-    background-color: rgba(0, 0, 0, 0.6);
-    text-align: center;
 }
 
 p {
     font-size: 20px;
     color: rgb(184, 168, 168);
     padding: 20px;
-    text-shadow: 1px 1px 2px black;
 }
 
 img {
-    width: 300px;
-    margin: 20px;
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
     display: block;
 }
 
@@ -30,3 +21,12 @@ img {
     width: 500px;
     height: auto;
 }
+
+header {
+    text-align: center;
+    font-weight: bold;
+    color: #ffcc00; 
+    font-size: 24px;
+    margin: 20px 0;
+}
+
