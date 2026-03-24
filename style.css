@@ -1,18 +1,18 @@
-body{
-    background-image: url("image.jfif");
-    background-size: cover;
+body {
+    background-color: #fff; 
     font-family: Arial;
 }
 
-p{
-    font-size:20px;
-    color:rgb(184, 168, 168);
-    padding:20px;
+p {
+    font-size: 20px;
+    color: rgb(184, 168, 168);
+    padding: 20px;
 }
 
-img{
-    width:300px;
-    margin:20px;
+img {
+    width: 300px;
+    margin: 20px;
+    display: block; 
 }
 
 .logo {
